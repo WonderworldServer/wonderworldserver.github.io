@@ -38,9 +38,9 @@ const config = {
     adminTeamPage: {
         Персонал: [
             {
-                inGameName: "louvily",
+                inGameName: "Asuramaruhyakuya",
                 rank: "Гл.Администратор",
-                skinUrlOrPathToFile: "",
+                skinUrlOrPathToFile: "https://i.ibb.co/rRWdHsyT/image-2025-07-22-19-028-07.png",
                 rankColor: "rgba(255, 85, 85, 1)"
             },
             {
