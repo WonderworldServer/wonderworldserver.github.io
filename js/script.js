@@ -47,13 +47,13 @@ const config = {
                 inGameName: "Arb1zik",
                 rank: "Администратор",
                 skinUrlOrPathToFile: "https://i.ibb.co/HDStFtPZ/image-2025-07-22-19-08-07-Photoroom.png",
-                rankColor: "rgba(239, 234, 26, 1)"
+                rankColor: "rgba(105, 102, 0, 1)"
             },
 			{
                 inGameName: "vel1m",
                 rank: "Администратор",
                 skinUrlOrPathToFile: "https://i.ibb.co/9kCB8hvQ/image-2025-07-22-19-08-07-Photoroom.png",
-                rankColor: "rgba(239, 234, 26, 1)"
+                rankColor: "rgba(105, 102, 0, 1)"
             }
         ],
         Разработчики: [
