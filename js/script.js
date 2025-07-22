@@ -30,7 +30,7 @@ const config = {
 
     Если вы хотите изменить тип скина, замените userSKinTypeInAdminTeam на то, что вам нужно, из массива в комментариях.
     */
-    userSKinTypeInAdminTeam: "full", /*[full, bust, head, face, front, frontFull, skin]*/
+    userSKinTypeInAdminTeam: "bust", /*[full, bust, head, face, front, frontFull, skin]*/
     atGroupsDefaultColors: {
         Администраторы: "rgba(255, 124, 124, 0.5)",
         Разработчики: "rgba(230, 83, 0, 0.5)",
@@ -44,7 +44,7 @@ const config = {
                 rankColor: "rgba(255, 85, 85, 1)"
             },
             {
-                inGameName: "Asanvery",
+                inGameName: "Av0iding",
                 rank: "Администратор",
                 skinUrlOrPathToFile: "",
                 rankColor: "rgba(255, 85, 85, 1)"
