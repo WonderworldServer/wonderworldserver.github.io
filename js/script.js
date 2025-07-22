@@ -50,7 +50,7 @@ const config = {
                 rankColor: "rgba(255, 85, 85, 1)"
             },
 			{
-                inGameName: "vel1m",
+                inGameName: "br6no",
                 rank: "Администратор",
                 skinUrlOrPathToFile: "",
                 rankColor: "rgba(255, 85, 85, 1)"
