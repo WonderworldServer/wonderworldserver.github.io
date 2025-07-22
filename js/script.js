@@ -48,13 +48,13 @@ const config = {
                 rank: "Администратор",
                 skinUrlOrPathToFile: "https://i.ibb.co/HDStFtPZ/image-2025-07-22-19-08-07-Photoroom.png",
                 rankColor: "rgba(255, 85, 85, 1)"
-            }
+            },
 			{
                 inGameName: "vel1m",
                 rank: "Администратор",
                 skinUrlOrPathToFile: "",
                 rankColor: "rgba(255, 85, 85, 1)"
-            },
+            }
         ],
         Разработчики: [
             {
