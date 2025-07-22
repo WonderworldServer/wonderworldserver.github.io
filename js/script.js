@@ -40,7 +40,7 @@ const config = {
             {
                 inGameName: "Arb1zik",
                 rank: "Администратор",
-                skinUrlOrPathToFile: "https://ibb.co/V1B7HcP",
+                skinUrlOrPathToFile: "https://i.ibb.co/V1B7HcP/2323-Photoroom.png",
                 rankColor: "rgba(255, 85, 85, 1)"
             },
             {
