@@ -32,11 +32,11 @@ const config = {
     */
     userSKinTypeInAdminTeam: "bust", /*[full, bust, head, face, front, frontFull, skin]*/
     atGroupsDefaultColors: {
-        Администраторы: "rgba(255, 124, 124, 0.5)",
+        Персонал: "rgba(255, 124, 124, 0.5)",
         Разработчики: "rgba(230, 83, 0, 0.5)",
     },
     adminTeamPage: {
-        Администраторы: [
+        Персонал: [
             {
                 inGameName: "Arb1zik",
                 rank: "Администратор",
@@ -44,8 +44,8 @@ const config = {
                 rankColor: "rgba(255, 85, 85, 1)"
             },
             {
-                inGameName: "Av0iding",
-                rank: "Администратор",
+                inGameName: "Asanvery",
+                rank: "Гл.Администратор",
                 skinUrlOrPathToFile: "",
                 rankColor: "rgba(255, 85, 85, 1)"
             }
@@ -53,7 +53,7 @@ const config = {
         Разработчики: [
             {
                 inGameName: "foxall",
-                rank: "Создатель",
+                rank: "Основатель",
                 skinUrlOrPathToFile: "",
                 rankColor: ""
             }
