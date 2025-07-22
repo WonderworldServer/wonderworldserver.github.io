@@ -38,13 +38,13 @@ const config = {
     adminTeamPage: {
         Администраторы: [
             {
-                inGameName: "Asanvery",
+                inGameName: "Arb1zik",
                 rank: "Администратор",
                 skinUrlOrPathToFile: "",
                 rankColor: "rgba(255, 85, 85, 1)"
             },
             {
-                inGameName: "Pivasik228",
+                inGameName: "Asanvery",
                 rank: "Администратор",
                 skinUrlOrPathToFile: "",
                 rankColor: "rgba(255, 85, 85, 1)"
