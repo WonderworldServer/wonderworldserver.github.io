@@ -38,7 +38,7 @@ const config = {
     adminTeamPage: {
         Администраторы: [
             {
-                inGameName: "Arb1zik",
+                inGameName: "Deveil",
                 rank: "Администратор",
                 skinUrlOrPathToFile: "",
                 rankColor: "rgba(255, 85, 85, 1)"
