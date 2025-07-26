@@ -1,8 +1,8 @@
 const config = {
     serverInfo: {
         serverLogoImageFileName: "logo.png", /*Это имя файла логотипа в /images/ (Если вы загружаете новый логотип с другим именем, вам необходимо изменить это значение)*/
-        serverName: "WonderWorld", /*Имя сервера*/
-        serverIp: "ru.joinserver.ru", /*IP-адрес сервера (если вы хотите добавить счетчик пользователей онлайн, у вас должны быть true enable-status и enable-query в server.properties)*/
+        serverName: "Сервер", /*Имя сервера*/
+        serverIp: "АЙПИ", /*IP-адрес сервера (если вы хотите добавить счетчик пользователей онлайн, у вас должны быть true enable-status и enable-query в server.properties)*/
         discordServerID: "" /*Ваш идентификатор сервера (если вы хотите добавить счетчик пользователей онлайн, у вас должен быть включен виджет сервера Discord)*/
     },
 
@@ -32,34 +32,28 @@ const config = {
     */
     userSKinTypeInAdminTeam: "bust", /*[full, bust, head, face, front, frontFull, skin]*/
     atGroupsDefaultColors: {
-        Персонал: "rgba(255, 124, 124, 0.5)",
-        Разработчики: "rgba(230, 83, 0, 0.5)",
+        админы: "rgba(255, 124, 124, 0.5)",
+        разрабы: "rgba(230, 83, 0, 0.5)",
     },
     adminTeamPage: {
-        Персонал: [
+        админы: [
             {
-                inGameName: "Asuramaruhyakuya",
-                rank: "Гл.Администратор",
-                skinUrlOrPathToFile: "https://i.ibb.co/rRWdHsyT/image-2025-07-22-19-028-07.png",
+                inGameName: "Steve",
+                rank: "Владелец",
+                skinUrlOrPathToFile: "",
                 rankColor: "rgba(255, 85, 85, 1)"
             },
             {
-                inGameName: "Arb1zik",
-                rank: "Администратор",
-                skinUrlOrPathToFile: "https://i.ibb.co/HDStFtPZ/image-2025-07-22-19-08-07-Photoroom.png",
-                rankColor: "rgba(105, 102, 0, 1)"
-            },
-			{
-                inGameName: "vel1m",
-                rank: "Администратор",
-                skinUrlOrPathToFile: "https://i.ibb.co/9kCB8hvQ/image-2025-07-22-19-08-07-Photoroom.png",
-                rankColor: "rgba(105, 102, 0, 1)"
+                inGameName: "Notch",
+                rank: "Владелец",
+                skinUrlOrPathToFile: "",
+                rankColor: "rgba(255, 85, 85, 1)"
             }
         ],
-        Разработчики: [
+        разрабы: [
             {
-                inGameName: "foxall",
-                rank: "Основатель",
+                inGameName: "Alex",
+                rank: "Кодер",
                 skinUrlOrPathToFile: "",
                 rankColor: ""
             }
